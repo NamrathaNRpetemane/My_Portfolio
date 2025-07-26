@@ -18,8 +18,8 @@ portfolio_data = {
     "title": "Web Developer & Aspiring ML Engineer",
     "location": "Bangalore, India",
     "email": "namrathanrpetemane18@gmail.com",
-    "github": "https://github.com/namratha-nr",
-    "linkedin": "https://linkedin.com/in/namratha-nr",
+    "github": "https://github.com/NamrathaNRpetemane",
+    "linkedin": "https://www.linkedin.com/in/namratha-nr-2ab271337/",
     "profile_image": PORTFOLIO_IMAGE,
     "bio": "Dynamic and ambitious engineering student with a focus on web development and machine learning, aiming to leverage strong adaptability, communication, and computer skills.",
     "education": [
